@@ -81,12 +81,9 @@
 		0397FA331AA90311008FEA68 /* aCDSprototype1 */ = {
 			isa = PBXGroup;
 			children = (
-				0397FA381AA90311008FEA68 /* AppDelegate.h */,
-				0397FA391AA90311008FEA68 /* AppDelegate.m */,
 				0397FA3B1AA90311008FEA68 /* ViewController.h */,
 				0397FA3C1AA90311008FEA68 /* ViewController.m */,
 				0397FA3E1AA90311008FEA68 /* Main.storyboard */,
-				0397FA411AA90311008FEA68 /* Images.xcassets */,
 				0397FA431AA90311008FEA68 /* LaunchScreen.xib */,
 				0397FA341AA90311008FEA68 /* Supporting Files */,
 			);
@@ -96,8 +93,11 @@
 		0397FA341AA90311008FEA68 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0397FA411AA90311008FEA68 /* Images.xcassets */,
 				0397FA351AA90311008FEA68 /* Info.plist */,
 				0397FA361AA90311008FEA68 /* main.m */,
+				0397FA381AA90311008FEA68 /* AppDelegate.h */,
+				0397FA391AA90311008FEA68 /* AppDelegate.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
